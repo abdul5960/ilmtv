@@ -1,12 +1,12 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "co.ilmtv",
-    "sha256_cert_fingerprints": [
-      "95:AC:6E:53:51:3A:3C:82:3C:60:C9:97:5B:20:C2:7C:59:2B:B6:68:53:EF:49:2E:AC:14:35:5C:67:8F:14:1C"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.artech.ilmtv",
+      "sha256_cert_fingerprints": [
+        "95:AC:6E:53:51:3A:3C:82:3C:60:C9:97:5B:20:C2:7C:59:2B:B6:68:53:EF:49:2E:AC:14:35:5C:67:8F:14:1C"
+      ]
+    }
   }
-}]
-
-
+]
